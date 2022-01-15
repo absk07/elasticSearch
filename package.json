@@ -1,0 +1,17 @@
+{
+  "name": "elasticsearch",
+  "version": "1.0.0",
+  "description": "Elasticsearch Demo",
+  "main": "nodemon app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.16.0",
+    "@faker-js/faker": "^6.0.0-alpha.2",
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
+}
